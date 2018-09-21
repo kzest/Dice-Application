@@ -1,0 +1,83 @@
+D:\WPF\Dice_App\Dice_App\bin\Debug\Dice_App.exe.config
+D:\WPF\Dice_App\Dice_App\bin\Debug\Dice_App.exe
+D:\WPF\Dice_App\Dice_App\bin\Debug\Dice_App.pdb
+D:\WPF\Dice_App\Dice_App\obj\Debug\View\MainWindow.g.cs
+D:\WPF\Dice_App\Dice_App\obj\Debug\App.g.cs
+D:\WPF\Dice_App\Dice_App\obj\Debug\Dice_App_MarkupCompile.cache
+D:\WPF\Dice_App\Dice_App\obj\Debug\Dice_App_MarkupCompile.lref
+D:\WPF\Dice_App\Dice_App\obj\Debug\View\MainWindow.baml
+D:\WPF\Dice_App\Dice_App\obj\Debug\Dice_App.g.resources
+D:\WPF\Dice_App\Dice_App\obj\Debug\Dice_App.Properties.Resources.resources
+D:\WPF\Dice_App\Dice_App\obj\Debug\Dice_App.csproj.GenerateResource.cache
+D:\WPF\Dice_App\Dice_App\obj\Debug\Dice_App.csproj.CoreCompileInputs.cache
+D:\WPF\Dice_App\Dice_App\obj\Debug\Dice_App.exe
+D:\WPF\Dice_App\Dice_App\obj\Debug\Dice_App.pdb
+D:\WPF\Dice_App\Dice_App\bin\Debug\HelixToolkit.dll
+D:\WPF\Dice_App\Dice_App\bin\Debug\HelixToolkit.pdb
+D:\WPF\Dice_App\Dice_App\bin\Debug\HelixToolkit.Wpf.dll
+D:\WPF\Dice_App\Dice_App\bin\Debug\HelixToolkit.Wpf.pdb
+D:\WPF\Dice_App\Dice_App\obj\Debug\Dice_App.csproj.CopyComplete
+D:\WPF\Dice_App\Dice_App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dice_App\Dice_App\bin\Debug\Dice_App.exe.config
+D:\Dice_App\Dice_App\bin\Debug\Dice_App.exe
+D:\Dice_App\Dice_App\bin\Debug\Dice_App.pdb
+D:\Dice_App\Dice_App\bin\Debug\HelixToolkit.dll
+D:\Dice_App\Dice_App\bin\Debug\HelixToolkit.pdb
+D:\Dice_App\Dice_App\bin\Debug\HelixToolkit.Wpf.dll
+D:\Dice_App\Dice_App\bin\Debug\HelixToolkit.Wpf.pdb
+D:\Dice_App\Dice_App\obj\Debug\View\MainWindow.g.cs
+D:\Dice_App\Dice_App\obj\Debug\App.g.cs
+D:\Dice_App\Dice_App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dice_App\Dice_App\obj\Debug\Dice_App_MarkupCompile.cache
+D:\Dice_App\Dice_App\obj\Debug\Dice_App_MarkupCompile.lref
+D:\Dice_App\Dice_App\obj\Debug\View\MainWindow.baml
+D:\Dice_App\Dice_App\obj\Debug\Dice_App.g.resources
+D:\Dice_App\Dice_App\obj\Debug\Dice_App.Properties.Resources.resources
+D:\Dice_App\Dice_App\obj\Debug\Dice_App.csproj.GenerateResource.cache
+D:\Dice_App\Dice_App\obj\Debug\Dice_App.csproj.CoreCompileInputs.cache
+D:\Dice_App\Dice_App\obj\Debug\Dice_App.csproj.CopyComplete
+D:\Dice_App\Dice_App\obj\Debug\Dice_App.exe
+D:\Dice_App\Dice_App\obj\Debug\Dice_App.pdb
+D:\WPF\Updated Dice\Dice_App\Dice_App\bin\Debug\Dice_App.exe.config
+D:\WPF\Updated Dice\Dice_App\Dice_App\bin\Debug\Dice_App.exe
+D:\WPF\Updated Dice\Dice_App\Dice_App\bin\Debug\Dice_App.pdb
+D:\WPF\Updated Dice\Dice_App\Dice_App\bin\Debug\HelixToolkit.dll
+D:\WPF\Updated Dice\Dice_App\Dice_App\bin\Debug\HelixToolkit.pdb
+D:\WPF\Updated Dice\Dice_App\Dice_App\bin\Debug\HelixToolkit.Wpf.dll
+D:\WPF\Updated Dice\Dice_App\Dice_App\bin\Debug\HelixToolkit.Wpf.pdb
+D:\WPF\Updated Dice\Dice_App\Dice_App\obj\Debug\Dice_App.csprojResolveAssemblyReference.cache
+D:\WPF\Updated Dice\Dice_App\Dice_App\obj\Debug\View\MainWindow.g.cs
+D:\WPF\Updated Dice\Dice_App\Dice_App\obj\Debug\App.g.cs
+D:\WPF\Updated Dice\Dice_App\Dice_App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPF\Updated Dice\Dice_App\Dice_App\obj\Debug\Dice_App_MarkupCompile.cache
+D:\WPF\Updated Dice\Dice_App\Dice_App\obj\Debug\Dice_App_MarkupCompile.lref
+D:\WPF\Updated Dice\Dice_App\Dice_App\obj\Debug\View\MainWindow.baml
+D:\WPF\Updated Dice\Dice_App\Dice_App\obj\Debug\Dice_App.g.resources
+D:\WPF\Updated Dice\Dice_App\Dice_App\obj\Debug\Dice_App.Properties.Resources.resources
+D:\WPF\Updated Dice\Dice_App\Dice_App\obj\Debug\Dice_App.csproj.GenerateResource.cache
+D:\WPF\Updated Dice\Dice_App\Dice_App\obj\Debug\Dice_App.csproj.CoreCompileInputs.cache
+D:\WPF\Updated Dice\Dice_App\Dice_App\obj\Debug\Dice_App.csproj.CopyComplete
+D:\WPF\Updated Dice\Dice_App\Dice_App\obj\Debug\Dice_App.exe
+D:\WPF\Updated Dice\Dice_App\Dice_App\obj\Debug\Dice_App.pdb
+D:\WPF\New folder\Dice_App\Dice_App\bin\Debug\Dice_App.exe.config
+D:\WPF\New folder\Dice_App\Dice_App\bin\Debug\Dice_App.exe
+D:\WPF\New folder\Dice_App\Dice_App\bin\Debug\Dice_App.pdb
+D:\WPF\New folder\Dice_App\Dice_App\bin\Debug\HelixToolkit.dll
+D:\WPF\New folder\Dice_App\Dice_App\bin\Debug\HelixToolkit.pdb
+D:\WPF\New folder\Dice_App\Dice_App\bin\Debug\HelixToolkit.Wpf.dll
+D:\WPF\New folder\Dice_App\Dice_App\bin\Debug\HelixToolkit.Wpf.pdb
+D:\WPF\New folder\Dice_App\Dice_App\obj\Debug\Dice_App.csprojResolveAssemblyReference.cache
+D:\WPF\New folder\Dice_App\Dice_App\obj\Debug\View\MainWindow.g.cs
+D:\WPF\New folder\Dice_App\Dice_App\obj\Debug\App.g.cs
+D:\WPF\New folder\Dice_App\Dice_App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPF\New folder\Dice_App\Dice_App\obj\Debug\Dice_App_MarkupCompile.cache
+D:\WPF\New folder\Dice_App\Dice_App\obj\Debug\Dice_App_MarkupCompile.lref
+D:\WPF\New folder\Dice_App\Dice_App\obj\Debug\View\MainWindow.baml
+D:\WPF\New folder\Dice_App\Dice_App\obj\Debug\Dice_App.g.resources
+D:\WPF\New folder\Dice_App\Dice_App\obj\Debug\Dice_App.Properties.Resources.resources
+D:\WPF\New folder\Dice_App\Dice_App\obj\Debug\Dice_App.csproj.GenerateResource.cache
+D:\WPF\New folder\Dice_App\Dice_App\obj\Debug\Dice_App.csproj.CoreCompileInputs.cache
+D:\WPF\New folder\Dice_App\Dice_App\obj\Debug\Dice_App.csproj.CopyComplete
+D:\WPF\New folder\Dice_App\Dice_App\obj\Debug\Dice_App.exe
+D:\WPF\New folder\Dice_App\Dice_App\obj\Debug\Dice_App.pdb
+D:\WPF\Dice_App\Dice_App\obj\Debug\Dice_App.csprojResolveAssemblyReference.cache
